@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/yuzhi535/yuzhi535/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
+- 🌱 I’m currently learning pytorch, golang and C#
+- 📫 How to reach me: [Twitter](https://twitter.com/decildmc)
