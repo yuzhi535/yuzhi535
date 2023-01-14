@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning pytorch, golang and C#
+- 🌱 I’m currently learning pytorch, go and C#
 - 📫 How to reach me: [Twitter](https://twitter.com/decildmc)
