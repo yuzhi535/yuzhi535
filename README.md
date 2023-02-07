@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 (![yuzhi535's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzhi535&show_icons=true&theme=radical))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhi535&hide=html,css,,javascript,Jupyter%20Notebook%2CGLSL&p=0.314159&q=0.314159&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
